@@ -10,13 +10,12 @@ A grading system that sends student solutions to an AI model running on Google C
 
 ## How to Run
 
-How to Run
-
-1. Open Smart_Grading_Assistant_Deployment.ipynb in Google Colab.
-2. Configure the NGROK_TOKEN in Colab Secrets (first run only).
-3. Run all cells and keep the Colab runtime active.
-4. Run start_project.bat.
-5. Open [http://localhost:5173](http://localhost:5173) in your browser.
+1. Download or clone this GitHub repository to your computer.
+2. Open Smart_Grading_Assistant_Deployment.ipynb in Google Colab.
+3. Configure the NGROK_TOKEN in Colab Secrets (first run only).
+4. Run all cells and keep the Colab runtime active.
+5. Run start_project.bat.
+6. Open [http://localhost:5173](http://localhost:5173) in your browser.
 
 ## Usage
 
