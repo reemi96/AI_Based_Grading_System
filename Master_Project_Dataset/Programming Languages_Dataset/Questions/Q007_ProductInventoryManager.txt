@@ -1,0 +1,22 @@
+Question_ID: Q007
+
+Title: Product Inventory Manager
+
+Problem Statement: 
+Write a Python program to manage a product inventory.
+The program should:
+- Read the names and quantities of 5 products.
+- Store the products and their quantities in a dictionary.
+- Calculate the total quantity of all products.
+- Find the product with the highest quantity.
+- Search for a product entered by the user.
+- If the product exists, display its quantity.
+- Otherwise, display "Product not found".
+
+Requirements:
+1. Read names and quantities of 5 products.
+2. Store data in a dictionary.
+3. Calculate total quantity.
+4. Find the product with the highest quantity.
+5. Search for a product.
+6. Display the correct results.

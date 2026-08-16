@@ -1,0 +1,16 @@
+Question_ID: Q002
+
+Title: Remove Duplicates from a List
+
+Problem Statement: 
+Write a Python program that reads a list of integers from the user and removes duplicate values 
+while preserving the original order of elements.
+The program should print the new list after removing duplicates.
+
+Requirements:
+1. Read a list of integers.
+2. Remove duplicate values.
+3. Preserve the original order.
+4. Store the result in a new list.
+5. Print the final list.
+6. Handle empty lists correctly.

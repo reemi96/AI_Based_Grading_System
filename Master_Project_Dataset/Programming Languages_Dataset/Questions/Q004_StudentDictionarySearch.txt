@@ -1,0 +1,21 @@
+Question_ID: Q004
+
+Title: Student Dictionary Search
+
+Problem Statement: 
+Write a Python program that stores student names and grades in a dictionary.
+The program should:
+
+1. Read information for 5 students.
+2. Store each student's name as a key and grade as a value.
+3. Ask the user to enter a student name.
+4. If the student exists, display the grade.
+5. Otherwise display "Student Not Found".
+
+Requirements:
+1. Read names and grades for 5 students.
+2. Store data in a dictionary.
+3. Read a search name.
+4. Search the dictionary correctly.
+5. Display the student's grade if found.
+6. Display "Student Not Found" if the student does not exist.

@@ -1,0 +1,24 @@
+Question_ID: Q004
+
+Title: Online Exam System
+
+Problem Statement: 
+Write a JavaScript program that reads the grades of 5 exams.
+The program should:
+1. Store the grades in an array.
+2. Calculate the average grade.
+3. Determine if the student passed or failed.
+Rules:
+- If average >= 60 → Pass
+- Otherwise → Fail
+Display:
+- Average Grade
+- Result
+
+Requirements:
+1. Read 5 grades.
+2. Store grades in an array.
+3. Calculate the average correctly.
+4. Determine Pass/Fail correctly.
+5. Display average.
+6. Display result.

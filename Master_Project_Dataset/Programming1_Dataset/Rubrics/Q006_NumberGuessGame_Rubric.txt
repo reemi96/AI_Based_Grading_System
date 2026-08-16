@@ -1,0 +1,7 @@
+Total: 10 Marks
+
+1. Variable declaration: 1 mark
+2. Input and conversion: 2 marks
+3. while loop: 3 marks
+4. if / else if / else: 2 marks
+5. Correct output: 2 marks

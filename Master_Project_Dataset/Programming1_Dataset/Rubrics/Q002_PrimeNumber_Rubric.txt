@@ -1,0 +1,8 @@
+Total: 10 marks
+
+1. Input reading: 1 mark
+2. Handles numbers less than 2: 2 marks
+3. Correct prime checking logic: 4 marks
+4. Correct output: 1 mark
+5. Efficient use of loop: 1 mark
+6. Code readability: 1 mark

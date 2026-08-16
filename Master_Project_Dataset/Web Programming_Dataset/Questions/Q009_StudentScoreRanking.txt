@@ -1,0 +1,21 @@
+Question_ID: Q009
+
+Title: Student Score Ranking System
+
+Problem Statement: 
+Write a JavaScript program that reads the scores of 5 students.
+The program should:
+1. Store the scores in an array.
+2. Sort the scores in descending order.
+3. Display:
+   - Highest Score
+   - Lowest Score
+   - Sorted Scores
+
+Requirements:
+1. Read 5 scores.
+2. Store the scores in an array.
+3. Sort the scores in descending order.
+4. Display the highest score.
+5. Display the lowest score.
+6. Display the sorted scores.

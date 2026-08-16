@@ -1,0 +1,22 @@
+Question_ID: Q008
+
+Title: Course Regiteration System
+
+Problem Statement: 
+Write a Python program to manage course registration.
+The program should:
+- Read the names of 5 available courses.
+- Store the course names in a list.
+- Read a course name entered by a student.
+- Check if the course exists.
+- If the course exists: Display "Registration Successful".
+- Otherwise: Display "Course Not Found".
+- Display the total number of available courses.
+
+Requirements:
+1. Read 5 course names.
+2. Store them in a list.
+3. Read a course name to register.
+4. Search for the course.
+5. Display the registration result.
+6. Display the total number of courses.

@@ -1,0 +1,19 @@
+Question_ID: Q001
+
+Title: Count Vowels
+
+Problem Statement: 
+Write a Python program that asks the user to enter a string 
+and counts the number of vowels in the string.
+The vowels are:
+a, e, i, o, u
+
+The program should count both uppercase and lowercase vowels.
+
+Requirements:
+1. Read a string from the user.
+2. Check each character in the string.
+3. Count vowels correctly.
+4. Handle uppercase and lowercase vowels.
+5. Display the total number of vowels.
+6. Ignore non-vowel characters.

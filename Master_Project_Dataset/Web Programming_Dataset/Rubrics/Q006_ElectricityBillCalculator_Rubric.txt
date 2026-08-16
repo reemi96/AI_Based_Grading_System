@@ -1,0 +1,9 @@
+Total: 10 marks
+
+1. Input reading: 1 mark
+2. First 100 units calculation: 2 marks
+3. 101–200 units calculation: 2 marks
+4. Above 200 units calculation: 2 marks
+5. Tax calculation: 1 mark
+6. Final bill calculation: 1 mark
+7. Correct output: 1 mark

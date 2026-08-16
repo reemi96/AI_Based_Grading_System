@@ -1,0 +1,25 @@
+Question_ID: Q003
+
+Title: Student Grade Calculator
+
+Problem Statement: 
+Write a C# program that asks the user to enter three exam grades.
+The program should calculate the average of the grades and determine the student's letter grade 
+according to the following rules:
+
+A : average >= 90
+B : average >= 80 and < 90
+C : average >= 70 and < 80
+D : average >= 60 and < 70
+F : average < 60
+
+Display both the average and the letter grade.
+
+Requirements:
+1. Read three grades from the user.
+2. Calculate the average correctly.
+3. Determine the correct letter grade.
+4. Display the average.
+5. Display the letter grade.
+6. Handle boundary values correctly.
+7. Organize the code clearly.

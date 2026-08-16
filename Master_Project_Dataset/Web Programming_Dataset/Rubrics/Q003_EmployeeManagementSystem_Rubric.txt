@@ -1,0 +1,8 @@
+Total: 10 marks
+
+1. Input reading: 2 marks
+2. Array creation: 1 mark
+3. Object creation: 2 marks
+4. Search logic: 3 marks
+5. Correct output: 1 mark
+6. Code readability: 1 mark

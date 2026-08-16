@@ -1,0 +1,8 @@
+Total: 10 marks
+
+1. Input reading: 1 mark
+2. Iterating through string: 2 marks
+3. Correct vowel counting: 3 marks
+4. Upper/lower case handling: 2 marks
+5. Output correctness: 1 mark
+6. Code readability: 1 mark

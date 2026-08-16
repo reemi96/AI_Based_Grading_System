@@ -1,0 +1,21 @@
+Question_ID: Q010
+
+Title: Find Maximum
+
+Problem Statement: 
+Write a C# program that finds the largest number in an array using a method.
+The program should:
+- Read 6 integer numbers from the user.
+- Store the numbers in an array.
+- Create a method named FindMaximum.
+- Pass the array to the method.
+- The method returns the largest number.
+- Display the largest number.
+
+Requirements:
+1. Read 6 integer numbers.
+2. Store the numbers in an array.
+3. Create a method named FindMaximum.
+4. Pass the array to the method.
+5. Return the largest number.
+6. Display the result.

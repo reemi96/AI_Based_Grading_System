@@ -1,0 +1,35 @@
+Question_ID: Q008
+
+Title: Library Book Borrowing System
+
+Problem Statement: 
+Write a JavaScript program that calculates the fine for returning a library book late.
+The program should read:
+1. Number of borrowed days.
+2. Number of allowed borrowing days.
+
+Rules:
+- If the borrowed days are less than or equal to the allowed days:
+  Fine = 0
+- Otherwise:
+  Fine = (Borrowed Days - Allowed Days) × 2
+
+After calculating the fine:
+- If the fine is greater than 20, display:
+  Membership Suspended
+- Otherwise:
+  Membership Active
+Display:
+1. Late Days
+2. Fine
+3. Membership Status
+
+Requirements:
+1. Read borrowed days.
+2. Read allowed days.
+3. Calculate late days.
+4. Calculate fine correctly.
+5. Determine membership status.
+6. Display late days.
+7. Display fine.
+8. Display membership status.

@@ -1,0 +1,7 @@
+Total: 10 Marks
+
+1. Array declaration and input: 2 marks
+2. Reading 10 numbers: 2 marks
+3. Largest and smallest calculation: 2 marks
+4. Even/Odd counting: 3 marks
+5. Correct output: 1 mark

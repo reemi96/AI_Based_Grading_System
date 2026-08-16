@@ -1,0 +1,28 @@
+Question_ID: Q008
+
+Title: Simple Calculator Method
+
+Problem Statement: 
+Write a C# program that performs a simple calculation using methods.
+The program should:
+- Create a method named Calculate.
+- The method receives:
+   - The first number.
+   - The second number.
+   - A mathematical operator (+, -, *, /).
+- The method returns the calculation result.
+- In the Main method:
+   - Read two numbers.
+   - Read the operator.
+   - Call the Calculate method.
+   - Display the result.
+- If the operator is invalid, display:
+   "Invalid Operator"
+
+Requirements:
+1. Create a method named Calculate.
+2. Read two numbers.
+3. Read an operator.
+4. Call the method from Main.
+5. Return the correct result.
+6. Handle invalid operators.

@@ -1,0 +1,7 @@
+Total: 10 marks
+
+1. Input reading: 1 mark
+2. Late days calculation: 2 marks
+3. Fine calculation: 3 marks
+4. Membership status: 2 marks
+5. Correct output: 2 marks

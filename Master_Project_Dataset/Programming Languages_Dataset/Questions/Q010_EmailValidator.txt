@@ -1,0 +1,27 @@
+Question_ID: Q010
+
+Title: Email Validator
+
+Problem Statement: 
+Write a Python program that validates email addresses.
+The program should:
+- Read 5 email addresses.
+- Store them in a list.
+- Count how many email addresses are valid.
+- Count how many email addresses are invalid.
+
+An email is considered valid if:
+- It contains exactly one '@' character.
+- It contains at least one '.' after the '@' character.
+
+Finally, display:
+- Number of valid emails.
+- Number of invalid emails.
+
+Requirements:
+1. Read 5 email addresses.
+2. Store them in a list.
+3. Validate each email.
+4. Count valid emails.
+5. Count invalid emails.
+6. Display the correct results.

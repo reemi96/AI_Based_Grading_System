@@ -1,0 +1,8 @@
+Total: 10 marks
+
+1. Input reading: 1 mark
+2. List processing: 2 marks
+3. Duplicate removal: 3 marks
+4. Preserve order: 2 marks
+5. Correct output: 1 mark
+6. Code readability: 1 mark

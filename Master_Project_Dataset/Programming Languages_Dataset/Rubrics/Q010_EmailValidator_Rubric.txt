@@ -1,0 +1,7 @@
+Total: 10 marks
+
+1. Input reading: 2 marks
+2. List usage: 2 marks
+3. Email validation: 3 marks
+4. Counting results: 2 marks
+5. Correct output: 1 mark

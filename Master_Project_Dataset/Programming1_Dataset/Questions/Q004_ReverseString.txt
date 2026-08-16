@@ -1,0 +1,15 @@
+Question_ID: Q004
+
+Title: Reverse String
+
+Problem Statement: 
+Write a C# program that asks the user to enter a string and then displays the string in reverse order.
+The program should preserve all characters exactly as entered, including spaces and punctuation marks.
+
+Requirements:
+1. Read a string from the user.
+2. Reverse all characters in the string.
+3. Preserve spaces and punctuation marks.
+4. Display the reversed string.
+5. Handle empty strings correctly.
+6. Organize the code clearly.

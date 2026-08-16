@@ -1,0 +1,8 @@
+Total: 10 marks
+
+1. Input reading: 2 marks
+2. List usage: 1 mark
+3. Highest & Lowest calculation: 2 marks
+4. Average calculation: 2 marks
+5. Pass/Fail counting: 2 marks
+6. Correct output: 1 mark

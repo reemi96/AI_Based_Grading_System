@@ -1,0 +1,30 @@
+Question_ID: Q006
+
+Title: Electricity Bill Calculator
+
+Problem Statement: 
+Write a JavaScript program that calculates an electricity bill based on monthly consumption.
+The program should read the number of electricity units consumed.
+Billing Rules:
+- First 100 units: 0.5 per unit
+- Next 100 units (101–200): 0.75 per unit
+- Any unit above 200: 1.2 per unit
+
+After calculating the bill:
+- If the total bill is greater than 150, apply a 5% tax.
+- Otherwise, no tax is added.
+
+Display:
+- Bill before tax
+- Tax
+- Final bill
+
+Requirements:
+1. Read the number of consumed units.
+2. Calculate bill for the first 100 units correctly.
+3. Calculate bill for units from 101 to 200 correctly.
+4. Calculate bill for units above 200 correctly.
+5. Apply 5% tax only if bill before tax > 150.
+6. Display bill before tax.
+7. Display tax.
+8. Display final bill.

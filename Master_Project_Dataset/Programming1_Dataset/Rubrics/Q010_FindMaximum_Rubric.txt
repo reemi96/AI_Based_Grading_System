@@ -1,0 +1,7 @@
+Total: 10 Marks
+
+1. Array declaration and input: 2 marks
+2. Method declaration: 2 marks
+3. Passing the array: 2 marks
+4. Finding the largest number: 3 marks
+5. Correct output: 1 mark

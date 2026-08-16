@@ -1,0 +1,23 @@
+Question_ID: Q007
+
+Title: ArrayStatistics
+
+Problem Statement: 
+Write a C# program that reads 10 integer numbers from the user.
+The program should:
+
+- Store the numbers in an array.
+- Find the largest number.
+- Find the smallest number.
+- Count how many numbers are even.
+- Count how many numbers are odd.
+- Display all the results.
+
+Requirements:
+1. Read 10 integer numbers.
+2. Store the numbers in an array.
+3. Find the largest number.
+4. Find the smallest number.
+5. Count even numbers.
+6. Count odd numbers.
+7. Display the results correctly.

@@ -1,0 +1,8 @@
+Total: 10 marks
+
+1. Read inputs correctly: 2 marks
+2. Name validation: 2 marks
+3. Age validation: 2 marks
+4. Email validation: 2 marks
+5. Correct output: 1 mark
+6. Code readability: 1 mark

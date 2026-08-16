@@ -1,0 +1,15 @@
+Question_ID: Q001
+
+Title: Factorial Calculator
+
+Problem Statement: 
+Write a C# program that asks the user to enter a non-negative integer number n, then calculates and prints 
+the factorial of n. 
+
+Requirements:
+1. Read an integer number from the user.
+2. Reject negative numbers or display an appropriate message.
+3. Correctly calculate factorial for n=0.
+4. Correctly calculate factorial for positive numbers.
+5. Print the final result clearly.
+6. Use a loop or a function to calculate the factorial.

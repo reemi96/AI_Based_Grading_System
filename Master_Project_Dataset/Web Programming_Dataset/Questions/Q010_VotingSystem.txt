@@ -1,0 +1,26 @@
+Question_ID: Q010
+
+Title: Voting System
+
+Problem Statement: 
+Write a JavaScript program that reads the votes of 5 students.
+Each student votes for one of the following candidates:
+- A
+- B
+- C
+The program should:
+1. Store the votes in an array.
+2. Count the number of votes for each candidate.
+3. Display the number of votes for A, B, and C.
+4. Display the winner.
+5. If two or more candidates have the same highest number of votes, display:
+Tie
+
+Requirements:
+1. Read 5 votes.
+2. Store votes in an array.
+3. Count votes for each candidate.
+4. Determine the winner correctly.
+5. Detect ties correctly.
+6. Display all vote counts.
+7. Display the correct result.

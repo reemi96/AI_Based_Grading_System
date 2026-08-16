@@ -1,0 +1,35 @@
+Question_ID: Q007
+
+Title: Student GPA Calculator
+
+Problem Statement: 
+Write a JavaScript program that calculates a student's GPA.
+The program should read the grades of 5 courses.
+Each grade is from 0 to 100.
+For each course, convert the numeric grade to grade points using the following rules:
+- 90 to 100  → 4.0
+- 80 to 89   → 3.0
+- 70 to 79   → 2.0
+- 60 to 69   → 1.0
+- Below 60   → 0.0
+
+Then:
+1. Store the 5 grades in an array.
+2. Convert each grade to grade points.
+3. Calculate the GPA as the average of the 5 grade points.
+4. Display the GPA.
+5. Display the academic standing using:
+   - GPA >= 3.5  → Excellent
+   - GPA >= 2.5  → Very Good
+   - GPA >= 2.0  → Good
+   - GPA >= 1.0  → Pass
+   - Otherwise   → Fail
+
+Requirements:
+1. Read 5 grades.
+2. Store grades in an array.
+3. Convert each grade to the correct grade points.
+4. Calculate GPA correctly.
+5. Determine the correct academic standing.
+6. Display GPA.
+7. Display standing.

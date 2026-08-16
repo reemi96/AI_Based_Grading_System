@@ -1,0 +1,7 @@
+Total: 10 Marks
+
+1. Method declaration: 2 marks
+2. Input reading: 2 marks
+3. Calling the method: 2 marks
+4. Correct calculation: 3 marks
+5. Output formatting: 1 mark

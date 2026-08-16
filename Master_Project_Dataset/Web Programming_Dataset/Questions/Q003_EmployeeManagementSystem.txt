@@ -1,0 +1,21 @@
+Question_ID: Q003
+
+Title: Employee Management System
+
+Problem Statement: 
+Write a JavaScript program that stores information for 5 employees.
+For each employee, read:
+- Employee Name
+- Employee Salary
+Store the employees in an array of objects.
+After reading all employees, ask the user to enter an employee name.
+If the employee exists, display the employee's salary.
+Otherwise display: Employee Not Found
+
+Requirements:
+1. Read information for 5 employees.
+2. Store employees in an array of objects.
+3. Read a search name.
+4. Search employees correctly.
+5. Display salary if found.
+6. Display "Employee Not Found" otherwise.

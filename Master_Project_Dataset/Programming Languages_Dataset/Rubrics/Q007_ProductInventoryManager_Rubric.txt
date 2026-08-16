@@ -1,0 +1,8 @@
+Total: 10 marks
+
+1. Input reading: 2 marks
+2. Dictionary usage: 2 marks
+3. Total quantity calculation: 2 marks
+4. Highest quantity search: 2 marks
+5. Product search: 1 mark
+6. Correct output: 1 mark

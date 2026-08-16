@@ -1,0 +1,8 @@
+Total: 10 marks
+
+1. Input reading: 1 mark
+2. Average calculation: 3 marks
+3. Grade classification: 3 marks
+4. Boundary conditions: 1 mark
+5. Output format: 1 mark
+6. Code readability: 1 mark

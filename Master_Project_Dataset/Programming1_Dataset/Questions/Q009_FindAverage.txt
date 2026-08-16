@@ -1,0 +1,21 @@
+Question_ID: Q009
+
+Title: Find Average
+
+Problem Statement: 
+Write a C# program that calculates the average of an array using a method.
+The program should:
+- Read 5 integer numbers from the user.
+- Store the numbers in an array.
+- Create a method named CalculateAverage.
+- Pass the array to the method.
+- The method returns the average of the numbers.
+- Display the average.
+
+Requirements:
+1. Read 5 integer numbers.
+2. Store the numbers in an array.
+3. Create a method named CalculateAverage.
+4. Pass the array as a parameter.
+5. Return the average.
+6. Display the result.

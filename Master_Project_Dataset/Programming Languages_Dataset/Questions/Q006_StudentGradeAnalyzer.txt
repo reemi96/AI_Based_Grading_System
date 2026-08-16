@@ -1,0 +1,24 @@
+Question_ID: Q006
+
+Title: Student Grade Analyzer
+
+Problem Statement: 
+Write a Python program that reads the grades of 5 students.
+The program should:
+- Store the grades in a list.
+- Calculate the highest grade.
+- Calculate the lowest grade.
+- Calculate the average grade.
+- Count the number of students who passed (grade >= 50).
+- Count the number of students who failed (grade < 50).
+- Display all the results.
+
+Requirements:
+1. Read grades for 5 students.
+2. Store the grades in a list.
+3. Find the highest grade.
+4. Find the lowest grade.
+5. Calculate the average grade.
+6. Count passed students.
+7. Count failed students.
+8. Display all results correctly.

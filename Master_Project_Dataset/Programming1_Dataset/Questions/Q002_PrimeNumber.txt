@@ -1,0 +1,17 @@
+Question_ID: Q002
+
+Title: Prime Number Checker
+
+Problem Statement: 
+Write a C# program that asks the user to enter a positive integer number and determines 
+whether the number is prime or not.
+A prime number is a number greater than 1 that has exactly two divisors: 1 and itself.
+
+Requirements:
+1. Read an integer number from the user.
+2. Reject numbers less than 2.
+3. Determine whether the number is prime.
+4. Display "Prime Number" if the number is prime.
+5. Display "Not Prime Number" if the number is not prime.
+6. Use loops to test divisibility.
+7. Display the result clearly.

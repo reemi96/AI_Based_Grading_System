@@ -1,0 +1,8 @@
+Total: 10 marks
+
+1. Input reading: 2 marks
+2. Dictionary creation: 2 marks
+3. Data storage: 2 marks
+4. Search logic: 2 marks
+5. Correct output: 1 mark
+6. Code readability: 1 mark

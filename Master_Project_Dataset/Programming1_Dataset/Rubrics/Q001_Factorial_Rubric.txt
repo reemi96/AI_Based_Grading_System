@@ -1,0 +1,8 @@
+Total: 10 marks
+
+1. Input reading: 1 mark
+2. Handles negative numbers: 1 mark
+3. Handles n = 0 correctly: 2 marks
+4. Correct factorial calculation: 4 marks
+5. Correct output format: 1 mark
+6. Code organization and readability: 1 mark

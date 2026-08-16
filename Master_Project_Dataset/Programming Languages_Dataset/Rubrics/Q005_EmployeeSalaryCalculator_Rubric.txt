@@ -1,0 +1,8 @@
+Total: 10 marks
+
+1. Input reading: 2 marks
+2. Regular salary calculation: 2 marks
+3. Overtime calculation: 3 marks
+4. Total salary calculation: 1 mark
+5. Correct output: 1 mark
+6. Code readability: 1 mark

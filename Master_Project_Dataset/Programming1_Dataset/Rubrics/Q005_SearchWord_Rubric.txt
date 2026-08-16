@@ -1,0 +1,8 @@
+Total: 10 marks
+
+1. Read words correctly: 2 marks
+2. Store words in array: 2 marks
+3. Read search word: 1 mark
+4. Search logic: 3 marks
+5. Correct output: 1 mark
+6. Code readability: 1 mark

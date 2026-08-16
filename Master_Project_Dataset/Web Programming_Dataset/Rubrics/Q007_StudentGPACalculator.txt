@@ -1,0 +1,8 @@
+Total: 10 marks
+
+1. Input reading: 2 marks
+2. Array usage: 1 mark
+3. Grade-to-points conversion: 3 marks
+4. GPA calculation: 2 marks
+5. Standing determination: 1 mark
+6. Correct output: 1 mark

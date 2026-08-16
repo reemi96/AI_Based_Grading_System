@@ -1,0 +1,8 @@
+Total: 10 marks
+
+1. Input reading: 2 marks
+2. Subtotal calculation: 3 marks
+3. Discount calculation: 2 marks
+4. Final total calculation: 1 mark
+5. Correct output: 1 mark
+6. Code readability: 1 mark

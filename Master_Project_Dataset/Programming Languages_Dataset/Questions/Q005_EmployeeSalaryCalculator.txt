@@ -1,0 +1,30 @@
+Question_ID: Q005
+
+Title: Employee Salary Calculator
+
+Problem Statement: 
+Write a Python program that calculates an employee's salary.
+The program should ask the user to enter:
+- Employee Name
+- Number of Working Hours
+- Hourly Rate
+
+Salary Calculation Rules:
+- The first 40 hours are paid at the normal hourly rate.
+- Any hour worked beyond 40 hours is considered overtime.
+- Overtime hours are paid at 1.5 times the hourly rate.
+
+Display:
+- Employee Name
+- Regular Salary
+- Overtime Salary
+- Total Salary
+
+Requirements:
+1. Read employee name.
+2. Read working hours.
+3. Read hourly rate.
+4. Calculate regular salary correctly.
+5. Calculate overtime salary correctly.
+6. Calculate total salary correctly.
+7. Display all results.

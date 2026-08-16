@@ -1,0 +1,8 @@
+Total: 10 marks
+
+1. Input reading: 1 mark
+2. Reversing logic: 4 marks
+3. Preserving characters: 1 mark
+4. Handling empty string: 1 mark
+5. Output format: 1 mark
+6. Code readability: 2 marks

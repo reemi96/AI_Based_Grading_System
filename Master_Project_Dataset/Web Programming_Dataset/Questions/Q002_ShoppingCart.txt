@@ -1,0 +1,24 @@
+Question_ID: Q002
+
+Title: Shopping Cart System
+
+Problem Statement: 
+Write a JavaScript program that calculates the final bill for a shopping cart.
+The program should:
+1. Read prices of 5 products.
+2. Calculate the subtotal.
+3. If the subtotal is greater than or equal to 100, apply a 10% discount.
+4. Calculate the final total after discount.
+5. Display:
+   - Subtotal
+   - Discount
+   - Final Total
+
+Requirements:
+1. Read 5 product prices.
+2. Calculate subtotal correctly.
+3. Apply 10% discount only when subtotal >= 100.
+4. Calculate final total correctly.
+5. Display subtotal.
+6. Display discount.
+7. Display final total.

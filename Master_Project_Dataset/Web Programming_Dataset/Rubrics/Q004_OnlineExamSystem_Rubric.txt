@@ -1,0 +1,8 @@
+Total: 10 marks
+
+1. Input reading: 2 marks
+2. Array usage: 1 mark
+3. Average calculation: 3 marks
+4. Pass/Fail logic: 2 marks
+5. Correct output: 1 mark
+6. Code readability: 1 mark

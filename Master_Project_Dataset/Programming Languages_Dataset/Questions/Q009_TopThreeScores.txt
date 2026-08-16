@@ -1,0 +1,21 @@
+Question_ID: Q009
+
+Title: Top Three Scores
+
+Problem Statement: 
+Write a Python program that reads the scores of 8 students.
+The program should:
+- Store the scores in a list.
+- Sort the scores in descending order.
+- Display:
+   - The highest score.
+   - The second highest score.
+   - The third highest score.
+- Display the average score.
+
+Requirements:
+1. Read 8 student scores.
+2. Store the scores in a list.
+3. Sort the scores in descending order.
+4. Display the top three scores.
+5. Calculate and display the average score.
