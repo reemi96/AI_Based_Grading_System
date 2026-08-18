@@ -12,9 +12,12 @@ A grading system that sends student solutions to an AI model running on Google C
 
 1. Download or clone this GitHub repository to your computer.
 2. Open Smart_Grading_Assistant_Deployment.ipynb in Google Colab.
-3. Configure the NGROK_TOKEN in Colab Secrets (first run only).
-4. Run all cells and keep the Colab runtime active.
-5. Run start_project.bat.
+3. Run all cells and keep the Colab runtime active.
+4. After the cells finish running, copy the generated Cloudflare Public URL ending with 
+'trycloudflare.com'.
+5. Open 'backend/main.py' and replace the value of 'COLAB_GRADE_URL' with the new Cloudflare URL followed by '/grade'.
+6. Save 'backend/main.py'.
+7. Run 'start_project.bat'.
 6. Open [http://localhost:5173](http://localhost:5173) in your browser.
 
 ## Usage
