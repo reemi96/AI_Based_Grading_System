@@ -19,7 +19,7 @@ excel_lock = threading.Lock()
 MASTER_DATASET_ROOT = Path(__file__).resolve().parent.parent / "Master_Project_Dataset"
 COLAB_GRADE_URL = os.getenv(
     "COLAB_GRADE_URL",
-    "https://underhand-squeamish-overbite.ngrok-free.dev/grade",
+    "https://love-single-purpose-insights.trycloudflare.com/grade",
 )
 COLAB_TIMEOUT_SECONDS = float(os.getenv("COLAB_TIMEOUT_SECONDS", "60"))
 SUBJECT_FOLDERS = {
