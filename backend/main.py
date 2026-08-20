@@ -19,7 +19,7 @@ excel_lock = threading.Lock()
 MASTER_DATASET_ROOT = Path(__file__).resolve().parent.parent / "Master_Project_Dataset"
 COLAB_GRADE_URL = os.getenv(
     "COLAB_GRADE_URL",
-    "https://love-single-purpose-insights.trycloudflare.com/grade",
+    "https://granny-metallica-secrets-respondent.trycloudflare.com/grade",
 )
 COLAB_TIMEOUT_SECONDS = float(os.getenv("COLAB_TIMEOUT_SECONDS", "60"))
 SUBJECT_FOLDERS = {
@@ -225,7 +225,7 @@ def call_colab_grade(payload: dict) -> dict:
     except urllib.error.URLError as exc:
         raise HTTPException(
             status_code=503,
-            detail="Could not connect to Colab grading API. Check that Colab is running and the ngrok URL is current.",
+            detail="Could not connect to Colab grading API. Check that Colab is running and the Cloudflare URL is current.",
         ) from exc
     except TimeoutError as exc:
         raise HTTPException(status_code=504, detail="Colab grading API request timed out.") from exc
