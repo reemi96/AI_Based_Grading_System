@@ -3,7 +3,7 @@ import { Brain, CheckCircle, FileText, Send, UploadCloud } from "lucide-react";
 
 const API_URL = "http://127.0.0.1:8000/grade-assignment";
 const SAVE_DECISION_URL = "http://127.0.0.1:8000/save-decision";
-const COLAB_OFFLINE_MESSAGE = "Could not connect to Colab API. Make sure Colab and ngrok are running.";
+const COLAB_OFFLINE_MESSAGE = "Could not connect to Colab API. Make sure Colab and Cloudflare tunnel are running.";
 const SAVE_DECISION_ERROR_MESSAGE = "Could not save final decision. Make sure the local Excel-saving API is running.";
 const SUBJECT_REQUIRED_MESSAGE = "Please select a subject before saving.";
 const subjectOptions = ["Programming Languages", "Programming 1", "Web Programming"];
